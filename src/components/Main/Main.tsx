@@ -238,7 +238,8 @@ export function Main() {
                 destroy: "none"
               },
               random: {
-                enable: false
+                enable: false,
+                minimumValue: 0.1
               },
               value: 16
             }
