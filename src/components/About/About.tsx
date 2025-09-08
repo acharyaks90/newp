@@ -1,6 +1,5 @@
 import { Container } from "./styles";
 import anilkumar from "../../assets/anilkumar.jpg";
-import wordpress from "../../assets/wordpress.svg";
 import ngMatIcon from "../../assets/ng-material-logo.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";

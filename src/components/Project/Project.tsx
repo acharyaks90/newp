@@ -1,6 +1,5 @@
 import { Container } from "./styles";
 import githubIcon from "../../assets/github.svg"
-// import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -45,8 +44,7 @@ export function Project() {
               <div className="project-links">
                 <a href="" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="
-www.camsuinfotech.com" target="_blank" rel="noreferrer">
+                <a href="https://www.camsuinfotech.com" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>

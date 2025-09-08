@@ -3,10 +3,7 @@ import reactIcon from '../../assets/react-icon.svg'
 import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
 import whatsapp from '../../assets/whatsapp.svg'
-import telegram from '../../assets/telegram.svg'
-import instagramIcon from '../../assets/instagram.svg'
 import mediumIcon from '../../assets/medium.svg'
-// import discordIcon from '../../assets/discord.png'
 
 export function Footer() {
   return (
@@ -50,13 +47,6 @@ export function Footer() {
         >
           <img src={mediumIcon} alt="medium" />
         </a>
-        {/* <a
-          href="https://www.instagram.com/acharyaks90/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={instagramIcon} alt="Instagram" />
-        </a> */}
       </div>
     </Container>
   )
