@@ -1,5 +1,5 @@
 import Particles from "react-tsparticles"
-import { loadFull } from "tsparticles/full"
+import { loadFull } from "tsparticles"
 import { useCallback } from "react"
 import { Container } from "./styles";
 import { Hero } from "../Hero/Hero";
